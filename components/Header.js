@@ -1,7 +1,7 @@
 
 const items = [
     { icon: 'fab fa-youtube', link: 'https://youtube.com/UmutBayraktarYT' },
-    { icon: 'fab fa-discord', link: 'https://discord.com/users/615029465726320654' },
+    { icon: 'fab fa-discord', link: 'https://discord.gg/XZwJ9cByE2' },
     { icon: 'fab fa-github', link: 'https://github.com/Raviyolox' },
   ]
 
