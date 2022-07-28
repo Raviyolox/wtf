@@ -6,7 +6,7 @@ export default async (req, res) => {
       name: "Switch Client",
       description:
         "Switch Client .",
-      link: "https://youtube.com/UmutBayraktarYT",
+      link: "https://discord.gg/XZwJ9cByE2",
     },
   ];
   res.status(200).json(data);
