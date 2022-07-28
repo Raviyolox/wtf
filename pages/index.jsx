@@ -25,7 +25,7 @@ export default function Home() {
                   </Tippy>
             
                 </div>
-                <p className="text-white/50 text-md mt-3">Sonoyuncu için yazılmış windows macos ve linux platformlarında çalışan Switch Client killaura, velocity, antiban modülleriyle satışa sunulmuştur
+                <p className="text-white/50 text-md mt-3">Sonoyuncu için yazılmış windows macos ve linux platformlarında çalışan Switch Client killaura, velocity, antiban modülleriyle yakında satışa sunulacak.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
