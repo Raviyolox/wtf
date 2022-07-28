@@ -16,7 +16,7 @@ export default function Home() {
               <div className="flex flex-col lg:justify-start justify-center items-center lg:items-start mt-5 lg:mt-0 w-full">
                 <div className="flex items-center">
                 <p className="flex items-center text-white text-4xl font-semibold">
-                  Umut Bayraktar
+                  Switch Client
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
@@ -25,7 +25,7 @@ export default function Home() {
                   </Tippy>
             
                 </div>
-                <p className="text-white/50 text-md mt-3">Switch Client Sonoyuncu hilesi
+                <p className="text-white/50 text-md mt-3">Sonoyuncu için yazılmış windows macos ve linux platformlarında çalışan Switch Client killaura, velocity, antiban modülleriyle satışa sunulmuştur
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
