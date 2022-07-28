@@ -13,7 +13,7 @@ export default async (req, res) => {
       image: "https://media.discordapp.net/attachments/737348411568685066/999563078079361074/YT_AVATAR_NET.jpg",
       name: "Youtube",
       description:
-        "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
+        "Javascript builder and developer.",
       link: "https://youtube.com/UmutBayraktarYT",
     },
      {
