@@ -55,7 +55,7 @@ export default function Home() {
                   .map((_, __) => (
                     <a
                       key={__}
-                      href={`https://github.com/umutxyp/`+_.name}
+                      href={`https://github.com/Raviyolox/`+_.name}
                       target="_blank"
                       rel="noreferrer"
                       className="bg-[#191932]/20 p-4 hover:bg-[#191932]/30 shadow-lg hover:shadow-xl transition-all duration-200 rounded-lg w-full"
