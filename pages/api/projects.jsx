@@ -2,10 +2,10 @@ export default async (req, res) => {
   const data = [
     {
       id: 2,
-      image: "https://media.discordapp.net/attachments/737348411568685066/999563078079361074/YT_AVATAR_NET.jpg",
-      name: "Youtube",
+      image: "https://cdn.discordapp.com/attachments/996782609709416538/1002252055844487178/th.jpeg",
+      name: "Switch Client",
       description:
-        "Javascript builder and developer.",
+        "Switch Client .",
       link: "https://youtube.com/UmutBayraktarYT",
     },
   ];
