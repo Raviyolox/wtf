@@ -1,6 +1,6 @@
 
 const items = [
-    { icon: 'fab fa-youtube', link: 'https://youtube.com/UmutBayraktarYT' },
+    { icon: 'fab fa-youtube', link: 'https://www.youtube.com/channel/UCGZitLZ_ZAh4iaJW-Ao8urQ' },
     { icon: 'fab fa-discord', link: 'https://discord.gg/XZwJ9cByE2' },
     { icon: 'fab fa-github', link: 'https://github.com/Raviyolox' },
   ]
