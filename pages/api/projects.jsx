@@ -5,7 +5,7 @@ export default async (req, res) => {
       image: "https://cdn.discordapp.com/attachments/996782609709416538/1002252055844487178/th.jpeg",
       name: "Switch Client",
       description:
-        "Switch Client .",
+        "Switch Client inject hack build x64,x86.",
       link: "https://discord.gg/XZwJ9cByE2",
     },
   ];
